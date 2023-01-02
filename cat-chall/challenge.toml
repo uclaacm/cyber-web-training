@@ -1,0 +1,9 @@
+slug = "cat-chall"
+title = "cat-chall"
+author = "michelle"
+value = 7
+description = """what animal is this a picutre of?"""
+tags = [ "intro" ]
+files = []
+flag = "flag{cat}"
+enabled = true 
